@@ -104,9 +104,7 @@ Build a **home-based learning extension** with:
 - Progress tracking and reporting
 - Asynchronous learning modules
 
----
-
-### Option 5: Take-Home Robotics Hardware Kit
+or
 
 Develop a **physical robotics learning kit** that families can use at home:
 - Low-cost, easy-to-assemble robotic components
@@ -117,19 +115,6 @@ Develop a **physical robotics learning kit** that families can use at home:
 - Assessment tools to track learning progress
 
 **Key Considerations:** Affordability, safety, ease of use, educational value, accessibility
-
----
-
-## Course Alignment
-
-This capstone project directly supports course learning objectives:
-
-- **Autonomous and Multi-Agent System Design:** Implement intelligent agents that make decisions, coordinate, and adapt
-- **Large-Scale Coordination:** Design systems where multiple agents work together toward common goals
-- **Quantitative Reasoning:** Model and evaluate system performance using data and metrics
-- **Civic Learning:** Address equitable STEM access and ethical design considerations
-- **Team-Based Development:** Collaborate effectively, document work, and present findings
-- **Communication Skills:** Deliver written documentation and oral presentations
 
 ---
 
@@ -164,40 +149,22 @@ Your project will be evaluated on:
 
 ---
 
-## Timeline
+## Timeline: February 16 - March 16
 
-**Detailed timeline will be provided in class.** The project spans multiple weeks and includes:
+The project spans multiple weeks and includes:
 
-1. **Background Research:** Understand the Pipeline Robotics Program and user needs
-2. **Requirements Gathering:** Define features and technical specifications
-3. **Design Phase:** Create architecture diagrams and user interface mockups
-4. **Implementation:** Develop the required applications and extension module
-5. **Testing and Iteration:** Test with feedback from stakeholders
-6. **Presentation:** Demo your system and present your design decisions
-
----
-
-## Resources
-
-### Reference Materials
-
-- [Pipeline Robotics Program Materials](https://drive.google.com/drive/folders/1pwKqgl0GMVk8GqcQ3FqUrQLtg8SPX-T_) - Background on the program, participants, and current needs
-
-### Course Concepts to Apply
-
-- Multi-agent systems and autonomous decision-making
-- Coordination and communication protocols
-- Human-robot (human-agent) interaction
-- Software architecture and system design
-- Ethical considerations in robotics and AI
+Week 1. **Background Research:** Understand the Pipeline Robotics Program and user needs
+Week 1. **Requirements Gathering:** Define features and technical specifications
+Week 2. **Design Phase:** Create architecture diagrams and user interface mockups
+Week 2-3. **Implementation:** Develop the required applications and extension module
+Week 3. **Testing and Iteration:** Test with feedback from stakeholders
+March 16. **Presentation:** Demo your system and present your design decisions
 
 ---
 
 ## Team Structure
 
-This is a **team-based project**. Teams will be assigned in class. 
-
-**Project Selection:** Each team will choose ONE project option (from Options 1-5) to complete. Teams should consider their interests, skills, and the community impact when selecting their project.
+This is a **team-based project**. Each person will choose ONE project option (from Options 1-4) to complete. Teams will be formed based on individual project selections.
 
 Each team member is expected to contribute equally to:
 - System design and architecture
@@ -267,34 +234,6 @@ Your project will be assessed on:
    - Quality of presentation and demonstration
    - Ability to explain technical decisions
    - Reflection on learning and civic engagement
-
----
-
-## Getting Started
-
-1. **Review the reference materials** from the TMT Youth Community Foundation
-2. **Choose your project option** as a team (Options 1-5)
-3. **Identify user needs** for your chosen project's target audience
-4. **Define your multi-agent architecture** - What agents will your system include? How will they coordinate?
-5. **Create a project plan** with milestones and task assignments
-6. **Begin with design** before diving into implementation
-
----
-
-## Questions?
-
-- **Office Hours:** See course syllabus for schedule
-- **Partner Liaison:** Communication channels will be established in class
-- **Technical Support:** Use lab sessions and office hours for technical assistance
-
----
-
-## Academic Integrity
-
-- **Collaboration:** You may discuss concepts with other teams, but your code and designs must be your own team's work
-- **Resources:** Cite any external libraries, frameworks, or tutorials you use
-- **LLM Usage:** If you use AI tools (ChatGPT, Copilot, etc.), document what you asked and how you used the responses
-- **Open Source:** You may use open-source libraries, but you must understand and document all dependencies
 
 ---
 
