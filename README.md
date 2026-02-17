@@ -35,7 +35,7 @@ By completing this project, you will be able to:
 
 This project is developed in collaboration with the **TMT Youth Community Foundation Pipeline Robotics Program**, which provides robotics education opportunities to underserved K–5 students.
 
-📁 [Pipeline Robotics Program Reference Materials](https://drive.google.com/drive/folders/1pwKqgl0GMVk8GqcQ3FqUrQLtg8SPX-T_)
+📁 [Pipeline Robotics Program Reference Materials](https://drive.google.com/drive/folders/1I6L73nuAn5i8IYwcL5Q2TXsmiOYOM9I6?usp=sharing)
 
 ---
 
