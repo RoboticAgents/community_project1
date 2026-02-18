@@ -10,245 +10,106 @@
 
 ## Executive Summary
 
-[1-2 paragraphs summarizing your project: what you're building, who it's for, and why it matters]
+[1-2 paragraphs summarizing your project: what you are building, who it's for, and why it matters]
 
 ---
 
 ## Requirements
 
-### Functional Requirements
+### Key Features
 
-List the main features your system will provide:
+List 5-7 main features your system will provide:
 
-1. **[Feature Name]**
-   - Description: [What does it do?]
-   - Priority: [High/Medium/Low]
-   - Rationale: [Why is this important?]
+1. **[Feature Name]** - [Brief description and why it matters]
+2. **[Feature Name]** - [Brief description and why it matters]
+3. **[Feature Name]** - [Brief description and why it matters]
 
-2. **[Feature Name]**
-   - Description:
-   - Priority:
-   - Rationale:
-
-3. **[Feature Name]**
-   - Description:
-   - Priority:
-   - Rationale:
-
-[Continue for all major features...]
+[Continue...]
 
 ### Non-Functional Requirements
 
-- **Usability:** [How will you ensure it's easy to use for your target audience?]
-- **Accessibility:** [What considerations for diverse users, including low-resource contexts?]
-- **Performance:** [Expected response times, number of concurrent users, etc.]
-- **Scalability:** [How will the system handle growth?]
-- **Security/Privacy:** [What data protection measures?]
-
-### Success Criteria
-
-How will you know if your system is successful?
-
-1. [Measurable criterion, e.g., "Users can complete task X in under 2 minutes"]
-2. [Measurable criterion]
-3. [Measurable criterion]
+- **Usability:** [Specific design choices for target audience]
+- **Accessibility:** [Low-bandwidth, literacy levels, device diversity]
+- **Security/Privacy:** [Data protection approach]
 
 ---
 
-## Multi-Agent System Design
+## System Design
 
-### Agents
+**Target Users:** [K-5 students, educators, families, or STEAM ambassadors]
 
-Describe the autonomous agents in your system:
+**Design Principles:** [2-3 key principles guiding your design]
 
-#### Agent 1: [Agent Name]
+### User Flow
 
-- **Role/Purpose:** [What does this agent do?]
-- **Behaviors:** [List key autonomous behaviors]
-- **Decision-Making:** [How does it make decisions?]
-- **Data/Inputs:** [What information does it use?]
+Describe the main user journey through your system:
 
-#### Agent 2: [Agent Name]
+1. [Entry point and first interaction]
+2. [Key task flow]
+3. [Expected outcome]
 
-- **Role/Purpose:**
-- **Behaviors:**
-- **Decision-Making:**
-- **Data/Inputs:**
-
-[Add more agents as needed...]
-
-### Coordination & Communication
-
-How do your agents coordinate and communicate?
-
-- **Coordination Mechanisms:** [e.g., message passing, shared memory, publish-subscribe]
-- **Communication Protocols:** [How do agents exchange information?]
-- **Conflict Resolution:** [What happens when agents have competing goals?]
-
-### Autonomy & Learning
-
-- **Level of Autonomy:** [How independent are your agents?]
-- **Adaptation:** [Can agents learn or improve over time? How?]
+[Include a simple flow diagram if helpful]
 
 ---
 
-## System Architecture
+## Architecture
 
-### High-Level Architecture Diagram
+### System Diagram
 
-[Insert diagram showing main components and their relationships]
+[Insert diagram showing main components and their relationships - hand-drawn, digital tool, or ASCII art]
 
-You can use:
-- Hand-drawn diagram (take a photo)
-- Digital tool (draw.io, Lucidchart, etc.)
-- ASCII art
-- Any clear visual representation
+### Main Components
 
-### Component Descriptions
-
-#### Component 1: [Component Name]
-
-- **Purpose:** [What does it do?]
-- **Technology:** [What will you use to build it?]
-- **Interactions:** [What other components does it connect to?]
-
-#### Component 2: [Component Name]
-
-- **Purpose:**
-- **Technology:**
-- **Interactions:**
-
-[Continue for all major components...]
-
-### Data Flow
-
-Describe how data moves through your system:
-
-1. [Step 1: Where does data enter the system?]
-2. [Step 2: How is it processed?]
-3. [Step 3: Where does it go?]
-
-[Include a data flow diagram if helpful]
+| Component | Purpose | Technology |
+|-----------|---------|------------|
+| [Name]    | [What it does] | [Tool/framework] |
+| [Name]    | [What it does] | [Tool/framework] |
+| [Name]    | [What it does] | [Tool/framework] |
 
 ---
 
-## User Interface Design
+## User Interface
 
-### User Personas
+### Wireframes/Mockups
 
-Briefly describe your target users:
+[Insert sketches of 2-3 key screens]
 
-**Persona 1: [Name/Type]**
-- Age/Role:
-- Tech Comfort:
-- Primary Goals:
-- Pain Points:
-
-[Add more personas if you have different user types]
-
-### Interface Mockups/Wireframes
-
-[Insert sketches or wireframes of key screens/interfaces]
-
-Describe the main user flows:
-
-1. **[Key User Task 1]:** [Step-by-step flow]
-2. **[Key User Task 2]:** [Step-by-step flow]
-
-### Accessibility Considerations
-
-How will you ensure accessibility?
-
-- [Consideration for low-bandwidth environments]
-- [Consideration for varying literacy levels]
-- [Consideration for diverse devices]
-- [Other accessibility features]
+**Main Screens:**
+1. [Screen name and purpose]
+2. [Screen name and purpose]
+3. [Screen name and purpose]
 
 ---
 
-## Technical Implementation Plan
+## Implementation Plan
 
 ### Technology Stack
 
-- **Frontend:** [e.g., React, HTML/CSS/JavaScript, Unity]
-- **Backend:** [e.g., Flask, Django, Node.js, or N/A]
-- **Database:** [e.g., SQLite, PostgreSQL, MongoDB, or N/A]
-- **Multi-Agent Framework:** [e.g., custom, JADE, SPADE, or other]
-- **Deployment:** [e.g., local, cloud, web hosting]
-- **Version Control:** Git/GitHub
+- **Frontend:** [Technology]
+- **Backend:** [Technology or N/A]
+- **Database:** [Technology or N/A]
+- **Other Tools:** [Any additional libraries/frameworks]
 
-### Development Approach
+### Development Phases
 
-- **Iteration 1 (Prototype):** [What will you build first?]
-- **Iteration 2 (Full System):** [What will you add next?]
-- **Testing Strategy:** [How will you test functionality and usability?]
+**Phase 1 (by March 13):** [Core features for prototype]
+
+**Phase 2 (by March 20):** [Additional features and polish]
 
 ### Team Responsibilities
 
-| Team Member | Primary Responsibilities | Secondary Responsibilities |
-|-------------|------------------------|---------------------------|
-| [Name]      | [Areas of focus]       | [Supporting work]         |
-| [Name]      | [Areas of focus]       | [Supporting work]         |
-| [Name]      | [Areas of focus]       | [Supporting work]         |
+| Team Member | Primary Focus |
+|-------------|---------------|
+| [Name]      | [Main areas]  |
+| [Name]      | [Main areas]  |
+| [Name]      | [Main areas]  |
 
 ---
 
-## Risks & Mitigation Strategies
+## Ethical Considerations
 
-### Technical Risks
+Key ethical issues to address:
 
-| Risk | Impact | Likelihood | Mitigation Strategy |
-|------|--------|------------|-------------------|
-| [e.g., Technology learning curve] | [High/Med/Low] | [High/Med/Low] | [How will you address it?] |
-| [Risk 2] | | | |
-
-### Project Risks
-
-| Risk | Impact | Likelihood | Mitigation Strategy |
-|------|--------|------------|-------------------|
-| [e.g., Scope too ambitious] | | | |
-| [Risk 2] | | | |
-
----
-
-## Civic Impact
-
-### Community Benefit
-
-How will your system benefit the K-5 Pipeline Robotics Program and its participants?
-
-[2-3 paragraphs]
-
-### Equity & Access
-
-How does your design promote equity and ensure access for underserved communities?
-
-[1-2 paragraphs]
-
-### Ethical Considerations
-
-What ethical considerations are important for your system?
-
-- [Consideration 1, e.g., data privacy]
-- [Consideration 2, e.g., age-appropriate content]
-- [Consideration 3, e.g., avoiding bias in agent decisions]
-
----
-
-## Timeline & Milestones
-
-| Date | Milestone | Deliverable |
-|------|-----------|-------------|
-| March 13 | Working Prototype | Core functionality implemented |
-| March 20 | Complete System | All features + documentation |
-| March 23 | Final Presentation | Live demo + presentation |
-
----
-
-## References & Resources
-
-List any external resources, tutorials, or documentation you're using:
-
-1. [Resource 1]
-2. [Resource 2]
-3. [Resource 3]
+- [e.g., data privacy, age-appropriate content, equitable access]
+- [Ethical consideration 2]
+- [Ethical consideration 3]

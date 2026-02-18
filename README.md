@@ -8,6 +8,7 @@
 - [Overview](#overview)
 - [Learning Outcomes](#learning-outcomes)
 - [Partner Organization](#partner-organization)
+  - [Riipen Platform Requirements](#riipen-platform-requirements)
 - [Your Role](#your-role)
 - [Project Options](#project-options)
 - [Project Phases and Weekly Tasks](#project-phases-and-weekly-tasks)
@@ -17,8 +18,6 @@
 - [Team Evaluation Process](#team-evaluation-process)
 - [Submission Instructions](#submission-instructions)
 - [Civic Learning Reflection](#civic-learning-reflection)
-- [Resources](#resources)
-- [Getting Help](#getting-help)
 
 ## Timeline
 
@@ -61,6 +60,27 @@ By completing this project, you will be able to:
 This project is developed in collaboration with the **TMT Youth Community Foundation Pipeline Robotics Program** in North Carolina, which provides robotics education opportunities to underserved K–5 students.
 
 📁 [Pipeline Robotics Program Reference Materials](https://drive.google.com/drive/folders/1I6L73nuAn5i8IYwcL5Q2TXsmiOYOM9I6?usp=sharing)
+
+### Riipen Platform Requirements
+
+This project is managed through the **Riipen platform**, which facilitates collaboration between students and community partners. You are required to use Riipen for the following:
+
+**Required Surveys:**
+- **Pre-Project Survey:** Complete at the start of the project to establish baseline expectations
+- **Mid-Point Check-In:** Complete around March 6-9 to assess progress and address challenges
+- **Post-Project Survey:** Complete after project submission to reflect on the experience
+
+**Project Management:**
+- **Milestones:** Create and update project milestones on the platform to track your team's progress
+- **Task Lists:** Check off completed tasks as you advance through the project phases
+- **Progress Updates:** Regularly update your project status on the platform
+
+**Communication:**
+- **Employer Partner Communication:** Use Riipen's messaging system to communicate with the TMT Youth Community Foundation partner
+- **Professional Interactions:** All platform communications should be professional and respectful
+- **Timely Responses:** Respond to partner messages within 24-48 hours
+
+Access to the Riipen platform will be provided at the start of the project. Completion of all surveys and regular platform engagement are part of your civic learning assessment.
 
 ---
 
@@ -255,7 +275,7 @@ Your project will be evaluated on:
 - Use this time to get final feedback on your system before completion
 - Continue to communicate via email or video calls as needed
 
-### Week of March 23: Final Presentations and Code Reviews
+### Week of March 23: Final Presentations
 
 **Final Presentations (March 23 Lab):**
 - Live demonstration of your software system
@@ -348,7 +368,7 @@ project-root/
     └── reflection.md (due Mar 20)
 ```
 
-### Presentation and Code Review (March 23)
+### Presentation (March 23)
 - Bring your laptop with working system, ready to demonstrate
 - Be prepared to explain your design choices, civic impact, and challenges
 - Each team will have 10 minutes to present + 3 minutes for Q&A
@@ -429,40 +449,3 @@ Your civic impact reflection (due March 20) should address:
 - Ethical considerations in autonomous system development
 - Potential real-world impact and sustainability
 - Personal growth in understanding civic engagement through technology
-
----
-
-## Resources
-
-### Partner Materials
-- [Pipeline Robotics Program Reference Materials](https://drive.google.com/drive/folders/1I6L73nuAn5i8IYwcL5Q2TXsmiOYOM9I6?usp=sharing)
-
-### Multi-Agent Systems
-- Class lecture notes and slides
-- *Introduction to Autonomous Robots* (Correll et al.) - relevant chapters
-- Research papers on multi-agent coordination (provided in class)
-
-### Development Resources
-- GitHub documentation and best practices
-- Web development frameworks (React, Flask, Django, etc.)
-- Game development platforms (Unity, Godot, Pygame, etc.)
-- Database systems (SQLite, PostgreSQL, MongoDB, etc.)
-
-### Civic Learning
-- Community-engaged design principles
-- Accessibility guidelines (WCAG, Section 508)
-- Ethical AI and autonomous systems literature
-
----
-
-## Getting Help
-
-- **Office Hours:** See course syllabus
-- **Lab/Class Sessions:** Use lab and class time to work with your team and get real-time help
-- **Community Partner:** Opportunities to connect with TMT Youth Community Foundation for feedback
-- **Debugging Tips:** Document your issue before asking for help (what you tried, what error you see)
-- **Technical Issues:** If you encounter blockers, reach out early—don't wait until the deadline
-
----
-
-**This is your opportunity to make a real difference. Build something meaningful!**

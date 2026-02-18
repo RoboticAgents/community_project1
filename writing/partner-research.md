@@ -42,30 +42,15 @@ Clearly state the specific community need your project will address:
 
 ## Questions for Community Partner
 
-Prepare at least 8-10 thoughtful questions to ask our community partner. Organize your questions by category:
+Prepare at least 5-8 thoughtful questions to ask our community partner. Organize your questions by category as appropriate.
 
 ### User Needs & Experience
 
-1. [Question about who will use the system and how]
-2. [Question about current user pain points]
-3. [Question about desired features or functionality]
-
 ### Technical Requirements & Constraints
-
-4. [Question about technical infrastructure or limitations]
-5. [Question about existing systems or tools]
-6. [Question about data privacy or security concerns]
 
 ### Success Criteria & Impact
 
-7. [Question about how success will be measured]
-8. [Question about desired outcomes]
-9. [Question about potential barriers to adoption]
-
 ### Implementation & Sustainability
-
-10. [Question about deployment or maintenance]
-11. [Additional question as needed]
 
 ---
 
@@ -80,28 +65,6 @@ Based on your research so far, describe your preliminary vision for the project:
 **How will it address the community need?**
 
 [Explain the connection between your system and the identified need]
-
-**What makes your approach innovative or valuable?**
-
-[What unique value does your system provide?]
-
----
-
-## Key Insights from Partner Meeting
-
-**[To be completed after meeting with community partner]**
-
-### Main Takeaways
-
-1. [Key insight from the conversation]
-2. [Important requirement or constraint learned]
-3. [Unexpected learning or perspective]
-
-### Impact on Design
-
-How will the partner's feedback influence your design?
-
-[Explain any changes or refinements to your initial vision]
 
 ---
 
