@@ -23,8 +23,9 @@
 
 - **Team Formation:** February 16, 2026
 - **Project Start:** February 16, 2026
-- **Final Presentations:** March 23, 2026
-- **Duration:** 4 weeks with scaffolded deadlines (note: Spring Break March 2–6)
+- **Community Partner Check-In Completed:** Monday, March 16, 2026
+- **Final Deliverable + Presentations:** Tuesday, April 7, 2026 (Lab, 2:30–4:00 PM)
+- **Duration:** 7 weeks with scaffolded deadlines (note: Spring Break March 2–6)
 
 ## Overview
 
@@ -123,10 +124,6 @@ Develop a **youth leadership and engagement application** featuring:
 - **Gamification System**:
   - Badges and levels
   - Incentives and rewards
-- **Content Creation Tools**:
-  - Mini-lessons
-  - Demonstrations
-  - Video tutorials
 
 ---
 
@@ -188,7 +185,7 @@ Your software system should demonstrate:
 You must provide in the `writing/` folder:
 - Community partner research and questions (`partner-research.md`) - Due Feb 20
 - Design document with architecture and requirements (`design.md`) - Due Feb 27
-- Final reflection on civic impact and lessons learned (`reflection.md`) - Due Mar 20
+- Final reflection on civic impact and lessons learned (`reflection.md`) - Due Apr 7
 
 ### Testing and Quality
 
@@ -252,40 +249,64 @@ Your project will be evaluated on:
 6. Document code with comments
 7. Track progress and challenges with regular Git commits
 
-### Week of March 16: Implementation Phase 2 and Testing (Deliverables Due March 20)
+### Week of March 16: Plan Revision + Implementation Phase 2
+
+**Status update from partner check-in (Monday, March 16):**
+- All teams demonstrated a starting prototype
+- All teams still need significant development and testing to complete project goals
 
 **Deliverables:**
-- Complete, functional system (code in `src/` folder, **Due March 20 by 2:30 PM**)
-- README.md in repository root with setup/deployment instructions (**Due March 20 by 11 AM**)
-- Final reflection (see `writing/reflection.md`, **Due March 20 by 21:30 PM**)
-- [Peer and self-evaluation form](https://forms.gle/HQK8QtHyWx4CFrJE9) (**Due March 20 by 2:30 PM**)
+- Revised implementation/testing plan in `writing/design.md` (**Due March 17 by 4:00 PM, end of lab**)
 
 **Tasks:**
-1. Complete all planned features
-2. Test system thoroughly (functionality, usability, accessibility)
-3. Refine user interface and experience
-4. Write comprehensive technical documentation
-5. Create user guides for target audience
-6. Complete civic impact reflection
-7. Prepare final presentation
-8. Complete [peer and self-evaluation form](https://forms.gle/HQK8QtHyWx4CFrJE9)
+1. Incorporate feedback from the March 16 community partner check-in
+2. Modify the **Development Phases** section in `writing/design.md` (do not create a new document)
+3. Define remaining build, integration, and testing work with team ownership
+4. Commit the updated plan to your repository before end of lab
 
-**Community Partner Check-in (If Needed):**
-- Opportunities to check in with the community partner during class time will be provided this week
-- Use this time to get final feedback on your system before completion
-- Continue to communicate via email or video calls as needed
+**Required plan content (in `writing/design.md`):**
+- Week of March 16 milestones
+- Week of March 23 milestones
+- Week of March 30 milestones
+- Final deliverable checklist for April 7
 
-### Week of March 23: Final Presentations
+### Week of March 23: Implementation Phase 3 (Feature Completion)
 
-**Final Presentations (March 23 Lab):**
+**Deliverables (weekly checkpoint):**
+- Feature-complete core workflow committed to `src/`
+- Updated progress notes in `writing/design.md` (completed vs remaining work)
+
+**Tasks:**
+1. Complete remaining core features
+2. Address high-priority defects from partner/instructor feedback
+3. Validate end-to-end user workflows
+4. Update README setup/run instructions as system behavior stabilizes
+
+### Week of March 30: Testing, Hardening, and Demo Preparation
+
+**Deliverables (weekly checkpoint):**
+- Test evidence/checklist committed in repository
+- Near-final `writing/reflection.md` draft
+
+**Tasks:**
+1. Perform functionality, usability, and accessibility testing
+2. Fix defects and improve reliability
+3. Finalize user-facing documentation
+4. Rehearse final demo and presentation flow
+
+### Week of April 7: Final Deliverable + Presentations
+
+**Final Deliverables (Due April 7 by 2:30 PM):**
+- Final code in `src/`
+- Final `README.md` in repository root
+- Final `writing/reflection.md`
+
+**Individual requirement (Due April 7 by 2:30 PM):**
+- Complete [peer and self-evaluation form](https://forms.gle/HQK8QtHyWx4CFrJE9)
+
+**Final Presentations (April 7 Lab, 2:30–4:00 PM):**
 - Live demonstration of your software system
-- 10-minute presentation covering:
-  - Project overview and community need addressed
-  - Technical implementation and design decisions
-  - Civic impact and ethical considerations
-  - Challenges, solutions, and lessons learned
-  - Individual contributions from each team member
-- Q&A session (3 minutes)
+- 10-minute presentation + 5-minute Q&A
 
 ---
 
@@ -311,7 +332,7 @@ Individual contributions will be assessed through peer evaluations and Git commi
 
 ## Team Evaluation Process
 
-### Peer and Self-Evaluation Form (Due March 20 by 2:30 PM)
+### Peer and Self-Evaluation Form (Due April 7 by 2:30 PM)
 
 Each team member will complete a **peer and self-evaluation form** (Google Form) that includes:
 
@@ -347,9 +368,10 @@ Submit via your team's GitHub repository:
 - **February 20, 2:30 PM:** Push `partner-research.md` to `writing/` folder
 - **February 27, 2:30 PM:** Push `design.md` to `writing/` folder
 - **March 13, 2:30 PM:** Push working prototype to `src/` folder
-- **March 20, 2:30 PM:** Push final code to `src/` folder, README.md to root, and `reflection.md` to `writing/` folder
+- **March 17, 4:00 PM:** Update the **Development Phases** section in `writing/design.md` with your revised completion plan
+- **April 7, 2:30 PM:** Push final code to `src/` folder, final README.md to root, and final `reflection.md` to `writing/` folder
 
-**Additionally, by March 20, 2:30 PM each team member must complete:**
+**Additionally, by April 7, 2:30 PM each team member must complete:**
 - [Peer and self-evaluation form](https://forms.gle/HQK8QtHyWx4CFrJE9)
 
 ### Repository Structure
@@ -365,10 +387,10 @@ project-root/
 └── writing/ (all written documents)
     ├── partner-research.md (due Feb 20)
     ├── design.md (due Feb 27)
-    └── reflection.md (due Mar 20)
+   └── reflection.md (due Apr 7)
 ```
 
-### Presentation (March 23)
+### Presentation (April 7, Lab 2:30–4:00 PM)
 - Bring your laptop with working system, ready to demonstrate
 - Be prepared to explain your design choices, civic impact, and challenges
 - Each team will have 10 minutes to present + 3 minutes for Q&A
@@ -443,7 +465,7 @@ Throughout this project, consider:
 
 This project is not just about building software—it's about using your technical skills to create positive social impact.
 
-Your civic impact reflection (due March 20) should address:
+Your civic impact reflection (due April 7) should address:
 - How your system addresses a real community need
 - Design decisions made with accessibility and equity in mind
 - Ethical considerations in autonomous system development
